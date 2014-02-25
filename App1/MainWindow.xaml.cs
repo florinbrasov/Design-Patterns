@@ -28,5 +28,11 @@ namespace App1
         {
 
         }
+        
+        public void B()
+        {
+            
+        
+        }
     }
 }
