@@ -28,6 +28,12 @@ namespace App1
         {
 
         }
+        
+        public void B()
+        {
+            
+        
+        }
 
         public void C()
         {
