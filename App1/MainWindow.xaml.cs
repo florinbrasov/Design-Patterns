@@ -28,5 +28,10 @@ namespace App1
         {
 
         }
+
+        public void C()
+        {
+
+        }
     }
 }
