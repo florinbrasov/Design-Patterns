@@ -24,5 +24,8 @@ namespace App1
         {
             InitializeComponent();
         }
+        public void a()
+        {
+        }
     }
 }
