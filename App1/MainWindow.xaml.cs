@@ -26,7 +26,9 @@ namespace App1
         }
         public void A()
         {
-
+            int a = 20;
+            int x = 200;
+            x--;
         }
         
         public void B()
