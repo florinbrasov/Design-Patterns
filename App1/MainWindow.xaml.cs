@@ -38,17 +38,6 @@ namespace App1
         public void C()
         {
             //exemplu
-        }
-        
-        public void ToBoss()
-        {
-            //functie de bossificare
-        }
-
-        public void florin()
-        {
-            //functie de debosificare
-        }
-        
+        }        
     }
 }
