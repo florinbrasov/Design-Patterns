@@ -40,14 +40,6 @@ namespace App1
 
         }
         
-        public void ToBoss()
-        {
-            //functie de bossificare
-        }
 
-        public void florin()
-        {
-
-        }
     }
 }
