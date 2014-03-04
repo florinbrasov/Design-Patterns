@@ -40,6 +40,15 @@ namespace App1
             //exemplu
         }
         
+        public void ToBoss()
+        {
+            //functie de bossificare
+        }
 
+        public void florin()
+        {
+            //functie de debosificare
+        }
+        
     }
 }
