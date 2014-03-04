@@ -49,5 +49,8 @@ namespace App1
 
         void f()
         { }
+        void g()
+        {
+        }
     }
 }
