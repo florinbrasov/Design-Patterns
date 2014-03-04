@@ -45,6 +45,7 @@ namespace App1
 
         void e()
         {
+            //comentariu adaugat acum la ora 23:30
         }
 
         void f()
