@@ -1,6 +1,7 @@
 Scriem ce avem de facut:
 Madalina:
-
+	- intrebat prof daca putem sa folosim IObservalble din C#
+	- cerut curs prof
 Florin:
 
 Vlad:
