@@ -3,6 +3,7 @@ Madalina:
 
 	- intrebat prof daca putem sa folosim IObservalble din C# + Cum se foloseste Observer ??
 	- cerut curs prof
+	- documentat Unit Testing
 
 Florin:
 	- 3 Foldere : Model, View, Controller
@@ -11,4 +12,5 @@ Florin:
 	- Restul in folderul Model
 	- Spor!
 Vlad:
+	- timer
 
