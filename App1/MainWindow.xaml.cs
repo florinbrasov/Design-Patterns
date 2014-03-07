@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace App1
+namespace Bomberman
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
